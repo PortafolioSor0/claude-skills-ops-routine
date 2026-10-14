@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.*
+.mcp.json
+
+# Client data never belongs here
+data/
+*.xlsx
+*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
