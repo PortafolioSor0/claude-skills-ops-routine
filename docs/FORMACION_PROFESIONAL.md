@@ -29,10 +29,10 @@ Competencias que demuestra este proyecto, con evidencia en el repo. El contexto 
 - **Trabajar con IA de forma segura y verificable.** Las skills ponen límites explícitos (qué no hace la IA, qué confirma la persona) y dejan rastro en git de cada cambio.
 - **Escribir para un público regulado.** Aprendí qué palabras evita compliance en Medicare y a armar paquetes de revisión con anticipación.
 
-## Impacto (por completar)
+## Impacto
 
-- [ ] Horas por semana que ahorra la rutina diaria: ______
-- [ ] Clientes cubiertos por las automatizaciones de la campaña AEP: ______
-- [ ] Tasa de reserva de citas antes / después del link automático: ______
-- [ ] Inscritos / asistentes al webinar: ______
-- [ ] Tiempo de preparación de un paquete de compliance antes / después: ______
+- **Rutina diaria:** me ahorra más de 8 horas a la semana de organizar notas, correos y archivos y de armar reportes (estimación propia).
+- **Paquetes de compliance:** pasaron de ~1 día de armado a mano a ~1 hora con los scripts (estimación propia).
+- **Campaña de revisión anual:** las automatizaciones cubren una campaña de cientos de clientes. Las confirmaciones salen por el canal que usó cada cliente y las citas se piden moviendo una sola columna.
+- **Regla Stop:** los clientes cerrados (ganados o perdidos) salen solos de la campaña, sin mensajes de más.
+- **Cambios en producción sin incidentes:** todo se construyó en Draft y se probó con un contacto de prueba antes de activarse; no se editó ningún workflow en vivo.
